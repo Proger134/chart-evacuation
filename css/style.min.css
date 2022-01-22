@@ -392,6 +392,9 @@ body._lock {
   opacity: 1;
 }
 @media (max-width: 991.98px) {
+  .compare__caption {
+    cursor: pointer;
+  }
   .compare__caption:hover .compare__tooltip {
     visibility: visible;
     opacity: 1;
